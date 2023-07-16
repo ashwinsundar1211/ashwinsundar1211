@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+}
+.link
+{
+    padding-right: 0px;
+    display: inline;
+    color: blue;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: #ffffff;
+}
+#Ashwin-photo
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+h1{
+    font-size: 45px;
+}
+#hello
+{
+    font-size: 30px;
+}
+.links
+{
+   position: fixed; 
+}
